@@ -296,8 +296,3 @@ It is worth our time to figure out what each step means and what each intermedia
 * Generates x86 assembly code.
 
 This is the final phase. X86 assembly code is generated and is able to be sent directly into `gcc`'s assembler to generate linux executable.
-
-
-
-
-Hello amir
